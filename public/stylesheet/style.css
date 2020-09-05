@@ -10,7 +10,7 @@ body{
 
 .card{
     padding: 20px;
-    width: auto;
+    width: 75%;
     height: auto;
     margin: 0 auto;
     margin-top: 20px;
@@ -32,12 +32,11 @@ body{
 
 .show-container{
     padding: 40px;
+    padding-top: 50px;
     width: 75%;
+    height: 500px;
     padding-bottom: 40px;
-    margin: 50px auto;
- 
-
-   
+    margin: 150px auto;
     position: relative;
     border-width: thin;
     border-style: solid;
